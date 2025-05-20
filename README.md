@@ -29,6 +29,9 @@ Models Used:
 
 * Visualization and evaluation using various plots and metrics
 
+## Dataset
+The dataset is publicly available on [kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/)
+
 ## Compiled Notebook
 A compiled version of the notebook is available for viewing [here](https://nbviewer.org/github/stavrosal/HeartDisease/blob/main/heart.ipynb).
 
